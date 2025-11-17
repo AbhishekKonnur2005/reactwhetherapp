@@ -1,2 +1,0 @@
-# reactwhetherapp
-app  developement
